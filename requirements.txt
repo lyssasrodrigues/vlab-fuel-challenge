@@ -1,0 +1,12 @@
+# backend/requirements.txt (Conteúdo CORRETO)
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+pydantic-settings
+pandas
+faker
+pytest
+httpx
+fastapi-cache[redis]
+requests
