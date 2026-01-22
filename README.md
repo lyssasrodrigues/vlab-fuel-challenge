@@ -1,4 +1,4 @@
-# ⛽ VLAB - Fuel Monitoring (Full Stack Challenge)
+
 
 ...
 
