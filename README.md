@@ -2,7 +2,7 @@
 
 ...
 
-## 💻 Como Rodar o Projeto 
+## Como Rodar o Projeto 
 
 **Pré-requisitos:** Docker e Docker Compose.
 
